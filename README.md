@@ -1,5 +1,9 @@
-RecipeSwap - Recipe Sharing Platform
-====================================
+# RecipeSwap - Recipe Sharing Platform
+
+## Frontend
+https://github.com/G0dObject/Recipe-Front <br>
+## BackEnd
+https://github.com/G0dObject/Recipe-Back
 
 Project Description
 -------------------
